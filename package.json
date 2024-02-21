@@ -4,7 +4,11 @@
   "description": "Components library",
   "author": "Artbat03",
   "license": "MIT",
-  "repository": "Artbat03/components-library-julia",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Artbat03/example-library-rep",
+    "homepage": "https://github.com/Artbat03/example-library-rep"
+  },
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
