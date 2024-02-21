@@ -15,12 +15,11 @@ npm install --save components-library-julia
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'components-library-julia'
-import 'components-library-julia/dist/index.css'
+import Text from './components/text'
 
 class Example extends Component {
   render() {
-    return <MyComponent />
+    return <Text />
   }
 }
 ```
